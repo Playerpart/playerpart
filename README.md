@@ -1,2 +1,2 @@
 # playerpart
-A place for bugs to be tracked
+A place for playerpart.com bugs to be tracked
